@@ -15,3 +15,12 @@ body {
 .parallax-container {
       height: 500px;
 }
+.red-social{
+	/* color:red; */
+	/* font-size: 3em; */
+	width: 15px;
+}
+.red-social > i{
+	color:yellow;
+	width: 3em;
+}
